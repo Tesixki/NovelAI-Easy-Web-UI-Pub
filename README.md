@@ -36,3 +36,7 @@ start.bat を実行してください
 .\venv\Scripts\activate
 python main.py
 ```
+
+## プロンプトの追加と削除
+
+プルダウンメニューに含まれるプロンプトの追加と削除を行う場合はprompt.jsonを編集してください
