@@ -1,0 +1,6 @@
+venv
+.idea
+.env
+flagged
+__pycache__
+results

@@ -1,0 +1,15 @@
+＜サンプラー＞
+・おすすめ
+Euler = 'k_euler'
+Euler A = 'k_euler_ancestral'
+DPM++ 2S Ancestral = 'k_dpmpp_2s_ancestral'
+
+・その他
+DPM++ 2S = 'k_dpmpp_2m'
+DPM++ SDE = 'k_dpmpp_sde'
+DDIM = 'ddim'
+
+＜品質タグプリセット＞
+Preset_None
+Preset_Heavy
+Preset_Light
