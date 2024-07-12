@@ -4,7 +4,7 @@ chcp 932 >nul
 
 @echo off
 REM ‰¼‘zŠÂ‹«‚ğ—LŒø‰»
-call venv\Scripts\activate
+call .\venv\Scripts\activate
 
 REM main.py‚ğÀs
 python main.py
